@@ -65,7 +65,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Expo Google fonts](https://github.com/expo/google-fonts)**
 - **[React Native](https://reactnative.dev/)**
 - **[React Navigation](https://reactnavigation.org/)**
-- **[React Native SVG](https://docs.expo.dev/versions/latest/sdk/svg/)**
 - **[React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer)**
 - **[React Native Skia](https://shopify.github.io/react-native-skia/)**
 - **[GestureHandler](https://docs.expo.dev/versions/latest/sdk/gesture-handler/)**
