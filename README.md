@@ -19,7 +19,7 @@ O projeto foi desenvolvido com o objetivo de colocar em prática os conhecimento
   - [x] Ao acertar a pergunta a tala fica verde e emite som.
   - [x] Ao errar a pergunta a tela fica vermelha, vibra e emite som.
   - [x] Ao finalizar, mostra o total de acertos.
-- [x] Listagem do histórico de questionários realizados com total de acertos.
+- [x] Listagem dos históricos com total de acertos.
 
 ## 📱 Demo
 
